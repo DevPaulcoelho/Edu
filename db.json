@@ -1,0 +1,377 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    }
+  ],
+  "careers": [
+    {
+      "career_description": "If the rich and the famous characters portrayed in Hollywood aren’t businessmen they are more likely to be investment bankers, traders, asset / portfolio managers & financial analysts.\n\nJobs in corporate finance, project finance, insurance management or regular (retail) banking may not be as glamorous, but they have their own rewards.\n\nWhile Wall Street might seem to be the epicenter of financial activity, there are plenty of high paying jobs in finance available across the world.",
+      "career_image": "//s3.amazonaws.com/appforest_uf/f1647343922713x181590022527538660/04-512.webp",
+      "career_name": "Finance Careers",
+      "source": "https://www.careerizma.com/careers/",
+      "creation_Date": "Jan 18, 2022 1:40 pm",
+      "modified_Date": "Mar 15, 2022 5:02 pm",
+      "Slug": ""
+    },
+    {
+      "career_description": "The geeks will inherit the earth they said. While that prophecy may not have fully fructified yet, technical wizards are surely controlling how lives and business operate on the planet.\n\nWhether you are an application programmer, project manager, software test engineer there’s a lot of power you can wield on technology products that’ll have a big influence on those around you.",
+      "career_image": "//s3.amazonaws.com/appforest_uf/f1647344052437x404163883874253200/download.png",
+      "career_name": "Technology Careers",
+      "source": "https://www.careerizma.com/careers/",
+      "creation_Date": "Jan 18, 2022 1:41 pm",
+      "modified_Date": "Mar 15, 2022 5:04 pm",
+      "Slug": ""
+    },
+    {
+      "career_description": "You may not be able to sell ice to an eskimo, because you’ve never tried. When a regular desk job isn’t your cup of tea, marketing jobs in sales, marketing strategy, pricing and advertising may be right for you.",
+      "career_image": "//s3.amazonaws.com/appforest_uf/f1647344035863x194484010408675140/83-830286_marketing-png.png",
+      "career_name": "Marketing Careers",
+      "source": "https://www.careerizma.com/careers/",
+      "creation_Date": "Jan 18, 2022 1:41 pm",
+      "modified_Date": "Mar 15, 2022 5:03 pm",
+      "Slug": ""
+    },
+    {
+      "career_description": "What the customer sees is the final product or service delivered by the company. What stays behind the scenes is the tremendous effort that goes into creating / manufacturing it. There’s usually an army of workers, operations managers, quality control professionals who are working towards ensuring a superior customer experience.",
+      "career_image": "//s3.amazonaws.com/appforest_uf/f1647344015673x944363266358929200/operations.jpeg",
+      "career_name": "Operations Careers",
+      "source": "https://www.careerizma.com/careers/",
+      "creation_Date": "Jan 18, 2022 1:41 pm",
+      "modified_Date": "Mar 15, 2022 5:03 pm",
+      "Slug": ""
+    },
+    {
+      "career_description": "In spite of all the automation that we see around us, the not-so-lowly employee still calls the shots. It’s still a while before machines will take over from humans. Which means there’s plenty of work for HR professionals. You could look at jobs in recruitment, compensation structuring, training and a host of other human resource management roles.",
+      "career_image": "//s3.amazonaws.com/appforest_uf/f1647344002743x856475582211439900/hr.png",
+      "career_name": "Human Resources (HR) Careers",
+      "source": "https://www.careerizma.com/careers/",
+      "creation_Date": "Jan 18, 2022 1:42 pm",
+      "modified_Date": "Mar 15, 2022 5:03 pm",
+      "Slug": ""
+    },
+    {
+      "career_description": "Q. Apart from his bank statements, what else is the top boss (CEO) of the company worried about?\nA. Financial statements i.e. balance sheet and profit & loss statement.\n\nThat’s his performance report which reflects how the business he leads has done over the previous financial year. And he could use a little help from accountants, auditors, tax consultants to ensure that his report card looks good and a fair reflection of the business.",
+      "career_image": "//s3.amazonaws.com/appforest_uf/f1647343988287x451767586172481500/accounting.png",
+      "career_name": "Accounting Careers",
+      "source": "https://www.careerizma.com/careers/",
+      "creation_Date": "Jan 18, 2022 1:42 pm",
+      "modified_Date": "Mar 15, 2022 5:03 pm",
+      "Slug": ""
+    },
+    {
+      "career_description": "The law of the land has made it possible to keep society civilized. But it can get quite complex for the lesser mortals to comprehend what these laws mean. You could specialize in corporate law, criminal law, tax law and a host of other categories and help other navigate the complex maze of ever-changing rules and their interpretation.",
+      "career_image": "//s3.amazonaws.com/appforest_uf/f1647343970612x494223162447052800/law.svg",
+      "career_name": "Legal Careers",
+      "source": "https://www.careerizma.com/careers/",
+      "creation_Date": "Jan 18, 2022 1:42 pm",
+      "modified_Date": "Mar 15, 2022 5:02 pm",
+      "Slug": ""
+    },
+    {
+      "career_description": "Too much money isn’t the root of all evils. There are other primary issues that need to be tackled – education, poverty, human rights, child development, health.\n\nWhether you decide to work in a non-governmental organisation (NGO) or within the corporate social responsibility (CSR) department of a private company, you could help in solving the most basic issues that plague mankind. These are among the few meaningful jobs that focus on social and economic impact.",
+      "career_image": "//s3.amazonaws.com/appforest_uf/f1647343954693x439546969375181900/ngo.png",
+      "career_name": "NGO, Non-profit and Developmental Careers",
+      "source": "https://www.careerizma.com/careers/",
+      "creation_Date": "Jan 18, 2022 1:43 pm",
+      "modified_Date": "Mar 15, 2022 5:02 pm",
+      "Slug": ""
+    }
+  ],
+  "students": [
+    {
+      "id": "8",
+      "name": "Piyush Aryan",
+      "phone": "9798167760",
+      "school_id": "190s",
+      "school": "Delhi Public School",
+      "email": "abc@gmail.com",
+      "about": "about Okay 123",
+      "counsellorId": "123Abc^78",
+      "section": "A",
+      "roll": "12",
+      "class": "10"
+    },
+    {
+      "id": "2",
+      "name": "Shaurya A",
+      "phone": "7891020210",
+      "school_id": "190s",
+      "school": "Delhi Public School",
+      "email": "abc@gmail.com",
+      "about": "about Okay 123",
+      "counsellorId": "123Abc^78",
+      "section": "B",
+      "roll": "13",
+      "class": "8"
+    },
+    {
+      "id": "3",
+      "name": "Nandini A",
+      "phone": "7891089210",
+      "school_id": "191s",
+      "school": "Delhi Public School-RK",
+      "email": "abc@gmail.com",
+      "about": "about Okay 123",
+      "counsellorId": "123Abc^78",
+      "section": "B",
+      "roll": "13",
+      "class": "8"
+    }
+  ],
+  "tests": [
+    {
+      "testId": "1",
+      "testLink": "https://app.gradeazy.com/student/test?id=61ffbdffd494530b9a67565d",
+      "testName": "Math Elimination",
+      "testDescription": "Eliminate Mathematics",
+      "testImg": "/img/MathsElimination.svg",
+      "testCompletedStatus": true
+    },
+    {
+      "testId": "2",
+      "testLink": "https://app.gradeazy.com/student/test?id=61ffbdffd494530b9a67565d",
+      "testName": "Science Elimination",
+      "testDescription": "Eliminate Science",
+      "testImg": "https://www.svgrepo.com/show/88308/science.svg",
+      "testCompletedStatus": false
+    }
+  ]
+}
